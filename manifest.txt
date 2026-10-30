@@ -1,0 +1,13 @@
+AGENTS.md
+README.md
+SKILL.md
+examples/KMUTT_styles_starter.docx
+examples/use_with_codex.md
+references/KMUTT_Thesis_Manual_2556.pdf
+references/citations_references.md
+references/final_qa.md
+references/format_rules.md
+references/source_page_map.md
+references/structure_pagination.md
+scripts/audit_docx.py
+scripts/audit_pdf.py
